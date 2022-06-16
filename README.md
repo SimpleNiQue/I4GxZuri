@@ -57,7 +57,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This Project is a collaborative effort between I4G and Zuri to help young people kickstart their tech/ software development career.
+This Project is a collaborative effort between <a href="https://ingressive.org">I4G</a> and <a href="https://zuri.team">Zuri</a> to help young people kickstart their tech/ software development career.
 
 ### Built With
 
@@ -88,9 +88,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-![Twitter](https://img.shields.io/twitter/follow/SimpleNick6.svg?style=social&label=@SimpleNick6)
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Wisdom Emmanuel](https://www.linkedin.com/Wisdom%20Emmanuel)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/Wisdom%20Emmanuel)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) SimpleNiQue](https://github.com/SimpleNiQue)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimpleNiQue)
+&nbsp;
+![Twitter](https://img.shields.io/twitter/follow/SimpleNick6.svg?style=social&label=@SimpleNick6)
 <p align="right">(<a href="#top">back to top</a>)</p>

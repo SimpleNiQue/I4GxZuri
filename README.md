@@ -23,8 +23,7 @@
 <h3 align="center">I4GxZuri</h3>
 
   <p align="center">
-    My Tasks and Exercises in the 2022 <a href="https://ingressive.org" style="text-decoration: none;">I4G</a> and <a href="https://zuri.team
-" style="text-decoration: none;">Zuri</a> Training
+    My Tasks and Exercises in the 2022 <a href="https://ingressive.org">I4G</a> and <a href="https://zuri.team">Zuri</a> Training
     <br />
     <a href="https://github.com/SimpleNiQue/I4GxZuri"><strong>Explore the docs »</strong></a>
     <br />
@@ -62,11 +61,13 @@ This Project is a collaborative effort between I4G and Zuri to help young people
 
 ### Built With
 
-* HTML
-* CSS
-* Javascript
+* ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+* ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* Django
+* ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
 
 
 <!-- CONTRIBUTING -->
@@ -91,5 +92,5 @@ Don't forget to give the project a star! Thanks again!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Wisdom Emmanuel](https://www.linkedin.com/Wisdom%20Emmanuel)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) SimpleNiQue](https://github.com/SimpleNiQue)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) SimpleNiQue](https://github.com/SimpleNiQue)
 <p align="right">(<a href="#top">back to top</a>)</p>

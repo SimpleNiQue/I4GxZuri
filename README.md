@@ -23,7 +23,8 @@
 <h3 align="center">I4GxZuri</h3>
 
   <p align="center">
-    Project Description
+    My Tasks and Exercises in the 2022 <a href="https://ingressive.org" style="text-decoration: none;">I4G</a> and <a href="https://zuri.team
+" style="text-decoration: none;">Zuri</a> Training
     <br />
     <a href="https://github.com/SimpleNiQue/I4GxZuri"><strong>Explore the docs »</strong></a>
     <br />
@@ -57,10 +58,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `project_title`, `project_description`
+This Project is a collaborative effort between I4G and Zuri to help young people kickstart their tech/ software development career.
 
 ### Built With
 
@@ -89,15 +87,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-SimpleNick - [@twitter_handle](https://twitter.com/SimpleNick6)
+![Twitter](https://img.shields.io/twitter/follow/SimpleNick6.svg?style=social&label=@SimpleNick6)
 
-Project Link: [https://github.com/SimpleNiQue/I4GxZuri](https://github.com/SimpleNiQue/I4GxZuri)
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Wisdom Emmanuel
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Wisdom Emmanuel](https://www.linkedin.com/Wisdom%20%Emmanuel)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) SimpleNiQue](https://github.com/SimpleNiQue)
 <p align="right">(<a href="#top">back to top</a>)</p>

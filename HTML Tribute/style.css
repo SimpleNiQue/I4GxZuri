@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(112, 133, 118);
+  border-radius: 4px;
+
+}
+
+img{
+    box-shadow: hsl(0, 25%, 67%) 0 0 16px;
+    image-rendering: pixelated;
+}

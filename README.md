@@ -65,7 +65,7 @@ This Project is a collaborative effort between I4G and Zuri to help young people
 * HTML
 * CSS
 * Javascript
-* Python
+* ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 * Django
 
 
@@ -89,7 +89,7 @@ Don't forget to give the project a star! Thanks again!
 
 ![Twitter](https://img.shields.io/twitter/follow/SimpleNick6.svg?style=social&label=@SimpleNick6)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Wisdom Emmanuel](https://www.linkedin.com/Wisdom%20%Emmanuel)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Wisdom Emmanuel](https://www.linkedin.com/Wisdom%20Emmanuel)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) SimpleNiQue](https://github.com/SimpleNiQue)
 <p align="right">(<a href="#top">back to top</a>)</p>

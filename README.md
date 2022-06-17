@@ -2,17 +2,6 @@
 
 <div id="top"></div>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -28,7 +17,7 @@
     <a href="https://github.com/SimpleNiQue/I4GxZuri"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SimpleNiQue/I4GxZuri">View Demo</a>
+    <a href="https://simplenique.github.io/I4GxZuri/">View Demo</a>
     ·
     <a href="https://github.com/SimpleNiQue/I4GxZuri/issues">Report Bug</a>
     ·
@@ -45,7 +34,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#technologies-used">Built With</a></li>
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -56,10 +45,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project:
 This Project is a collaborative effort between <a href="https://ingressive.org">I4G</a> and <a href="https://zuri.team">Zuri</a> to help young people kickstart their tech/ software development career.
 
-### Built With
+### Technologies Used:
 
 * ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

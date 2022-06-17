@@ -1,0 +1,12 @@
+ul li{
+  display: inline;
+  list-style: none;
+  padding: 20px;
+}
+
+li a{
+  text-decoration-line: none;
+}
+footer{
+  padding: 20px;
+}

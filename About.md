@@ -1,0 +1,1 @@
+This Project is a collaborative effort between <a href="https://ingressive.org">I4G</a> and <a href="https://zuri.team">Zuri</a> to help young people kickstart their tech/ software development career.

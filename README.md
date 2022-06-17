@@ -14,7 +14,7 @@
   <p align="center">
     My Tasks and Exercises in the 2022 <a href="https://ingressive.org">I4G</a> and <a href="https://zuri.team">Zuri</a> Training
     <br />
-    <a href="https://github.com/SimpleNiQue/I4GxZuri"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SimpleNiQue/I4GxZuri/docs/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://simplenique.github.io/I4GxZuri/">View Demo</a>

@@ -3,7 +3,7 @@
 
 
 ## Task 2
-><a href="https://simplenique.github.io/I4GxZuri/Intro_to_js/calculator.html">Calculatorr</a>
+><a href="https://simplenique.github.io/I4GxZuri/Intro_to_js/calculator.html">Calculator</a>
 
 ### Usage
 >enter available numbers for operation <br>

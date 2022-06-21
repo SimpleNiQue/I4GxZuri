@@ -6,9 +6,9 @@
 ><a href="https://simplenique.github.io/I4GxZuri/Intro_to_js/calculator.html">Calculatorr</a>
 
 ### Usage
->enter available numbers for operation
->enter first number
->enter second number
+>enter available numbers for operation <br>
+>enter first number <br>
+>enter second number <br>
 
 ### Example
    ```javascript

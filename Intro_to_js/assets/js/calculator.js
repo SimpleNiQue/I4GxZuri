@@ -1,7 +1,7 @@
 function calc(){
   
   
-  var action = prompt(`What do you want to do?? \n1. Addition \n2. Subtraction \n3. Multiplication \n4. Division\n\n"**You can type your choice as number`);
+  var action = prompt(`Hi, this is a simple calculator \nWhat do you want to do?? \n1. Addition \n2. Subtraction \n3. Multiplication \n4. Division\n\n"**You can type your choice as number`);
   
   if (action == 1 || action == "addition" || action == "Addition"){
     num1 = prompt("Enter first number")

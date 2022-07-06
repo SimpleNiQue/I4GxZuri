@@ -11,7 +11,7 @@ function calc(){
     alert(`${num1} + ${num2} = ${num1 + num2}`)
   }
   
-if (action == 2 || action == "subtraction" || action == "Subtraction") {
+else if (action == 2 || action == "subtraction" || action == "Subtraction") {
     num1 = prompt("Enter first number")
     num1 = Number(num1)
     num2 = prompt("Enter second number")
@@ -20,7 +20,7 @@ if (action == 2 || action == "subtraction" || action == "Subtraction") {
   }
   
   
-if (action == 3 || action == "multiplication" || action == "Multiplication") {
+else if (action == 3 || action == "multiplication" || action == "Multiplication") {
     num1 = prompt("Enter first number")
     num1 = Number(num1)
     num2 = prompt("Enter second number")
@@ -29,12 +29,23 @@ if (action == 3 || action == "multiplication" || action == "Multiplication") {
   }
   
   
-if (action == 4 || action == "division" || action == "Division") {
+else if (action == 4 || action == "division" || action == "Division") {
   num1 = prompt("Enter first number")
   num1 = Number(num1)
   num2 = prompt("Enter second number")
   num2 = Number(num2)
   alert(`${num1} / ${num2} = ${num1 / num2}`)
+}
+
+else{
+  try_again= prompt(`Wrong Entry, Try again? (Y)es, (N)o`)
+  if (try_again== 'y'||try_again== 'Y'){
+    calc()
+  }
+  else{
+    alert(`Bye`)
+  }
+
 }
 }
 
